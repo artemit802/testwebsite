@@ -1,0 +1,59 @@
+body {
+	font-family: Arial;
+background: #f1f1f1;
+overflow-x: scroll;
+}
+.WebsiteHead {
+	text-align: center;
+	background: gray;
+	height: 100px;
+	padding-top: 50px;
+
+}
+.WebsiteHead h1 {
+	font-size: 20px;
+}
+.topnav {
+	display: flex;
+	background-color: #333;
+}
+.topnav a {
+	padding: 12px;
+	color: #f2f2f2;
+	text-align: center;
+	text-decoration: none;
+}
+.linc1:hover {
+	background-color: gray;
+}
+.linc2:hover {
+	background-color: gray;
+}
+.linc3:hover {
+	background-color: gray;
+}
+.linc4:hover {
+	background-color: gray;
+}
+.container {
+	display: flex;
+	width: 100%;
+}
+.gg {
+	padding-left: 10px;
+flex: 30%;
+background-color: #e0e0e0;
+}
+.hh {
+flex: 70%;
+}
+.nogi {
+	clear: left;
+	padding: 20px;
+	text-align: center;
+	background-color: #a9a9a9;
+	margin-top: 20px;
+}
+.gg img {
+	width: 100px;
+}
